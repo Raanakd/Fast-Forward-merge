@@ -7,7 +7,13 @@ private:
    bool isLocked;
 public:
    Door();
-   
+   void closeDoor();
+}
+Door(){
+
+}
+ void closeDoor(){
+
 }
 int main(){
 
