@@ -9,6 +9,9 @@ public:
    Door();
    
 }
+Door(){
+
+}
 int main(){
 
 return 0;
